@@ -8,3 +8,4 @@ bot.on("ready", function() {
 });
 
 bot.login(process.env.TOKEN);
+t
