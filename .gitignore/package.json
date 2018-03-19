@@ -1,14 +1,21 @@
 {
   "name": "phaeris",
   "version": "1.0.0",
-  "description": "",
+  "description": "Bot Serveur Rp Wakfu",
+  "repository": {
+    "type": "url",
+    "url": "rien"
+  },
   "main": "bot.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node bot.js"
   },
   "author": "Sagles",
-  "license": "ISC",
+  "license": "V1",
   "dependencies": {
-    "discord.js": "^11.3.2"
+    "discord.js": "^10.0.1",
+    "node-opus": "^0.2.4",
+    "opusscript": "0.0.1"
   }
 }
+
