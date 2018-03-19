@@ -1,3 +1,4 @@
+// Discord.js
 var Discord = require("discord.js");
 //require("node-opus");
 require("opusscript");
