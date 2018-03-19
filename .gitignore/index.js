@@ -8,3 +8,9 @@ bot.on("ready", function() {
 });
 
 bot.login(process.env.TOKEN);
+
+  // Command bonjour
+     if (msg.content.startsWith(Bonjour")) {
+      msg.reply("Hey");
+      console.log("")
+    }
