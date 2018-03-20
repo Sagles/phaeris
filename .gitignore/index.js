@@ -7,7 +7,7 @@ bot.on("ready", function() {
     console.log("Le bot a bien ete connecte");
 });
 
-bot.login(process.env.TOKEN)
+bot.login(process.env.TOKEN);
 
 // Discord.js
 var Discord = require("discord.js");
