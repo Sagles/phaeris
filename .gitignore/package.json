@@ -8,7 +8,7 @@
   },
   "main": "bot.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "worker: node bot"
   },
   "author": "Sagles",
   "license": "V1",
