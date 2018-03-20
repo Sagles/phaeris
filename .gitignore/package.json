@@ -6,10 +6,6 @@
     "type": "url",
     "url": "rien"
   },
-  "main": "bot.js",
-  "scripts": {
-    "start": "worker: node bot"
-  },
   "author": "Sagles",
   "license": "V1",
   "dependencies": {
